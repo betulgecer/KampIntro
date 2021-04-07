@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Kampintro\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\PC\source\repos\Kampintro\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\PC\source\repos\Kampintro\ClassMetotDemo\obj\Debug\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Kampintro\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kampintro\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\PC\source\repos\Kampintro\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
